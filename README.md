@@ -1,4 +1,4 @@
-# BIO
+#  A bit about me.
 # Hi, I'm Igho Ogbobine 👋
 
 I’m a Manager of Data Operations passionate about transforming complex data into clear, actionable insights that drive meaningful impact.
